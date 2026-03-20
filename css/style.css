@@ -1,5 +1,6 @@
 body {
     background-color: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1{
@@ -11,14 +12,31 @@ h2 {
 
 nav {
     background-color: black;
+    text-align: center;
+    padding: 10px;
 }
 
 nav a {
     color: white;
+    text-decoration: none;
+    margin: 25px;
 }
 
 section {
     background-color: white;
     padding: 20px;
     margin: 20px;
+}
+
+#Sobre {
+    background-color: lightblue;
+}
+
+.nome{
+  color: darkred;
+}
+
+.cabecalho{
+    text-align: center;
+
 }
